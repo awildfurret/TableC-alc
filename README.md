@@ -14,4 +14,8 @@ Technology used are Embacedero Dev C++ as IDE, and using for loop, arrays, and f
 
 # How To Run
 
-Download source and run the exe, or click on release tab if there is one.
+Download source, extract, and run the .exe
+
+Or click on release tab, then download the .exe
+
+This program is Windows only
